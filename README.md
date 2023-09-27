@@ -4,3 +4,4 @@
 no-fast-forward 変更
 conflict発生
 github上で更新
+コンフリクト用
